@@ -4,7 +4,7 @@
     "type": "magento2-module",
     "version": "1.6.1",
     "require": {
-        "guxedo/php-sdk": "dev-master"
+        "guxedo/php-sdk": "^V1.10.1"
     },
         "repositories": [
         {
