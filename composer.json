@@ -9,7 +9,7 @@
         "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/guxedo/php-sdk"
+            "url": "https://github.com/guxedo/SDK-PHP"
         },
         {
             "type": "vcs",
