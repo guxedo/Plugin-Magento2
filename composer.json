@@ -6,5 +6,15 @@
     "require": {
         "guxedo/php-sdk": "*"
     },
+        "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/guxedo/php-sdk"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/guxedo/magento2-plugin"
+        }            
+    ],
     "autoload": { "files": [ "registration.php" ], "psr-4": { "Prisma\\TodoPago\\": "" } }
 }
